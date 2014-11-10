@@ -1,0 +1,140 @@
+body, div, h1, h2, h3, h4, p, ul, ol, li, img, blockquote {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body {
+	overflow-x: hidden;
+	background: url('DSC_8571.jpg') no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+
+#header {
+	width: 960px; height: 40px;
+	margin: 20px auto;
+	text-align: center;
+}
+	ul.navigation {
+		list-style-type: none;
+		text-align: center;
+	}
+		ul.navigation li {
+			display: inline;
+			margin-right: 20px;
+		}
+			ul.navigation li a {
+				text-decoration: none;
+				font-family: "Raleway";
+				color: #fff;
+				font-size: 16px;
+				letter-spacing: 2px;
+			}
+
+#main {
+	width: 960px; position: absolute;
+	left: 50%;
+	margin: 100px 0 0 -480px;
+	/*background: #fff;*/
+	padding: 20px;
+}
+
+h1 {
+	text-align: center;
+	font-family: "Cookie";
+	color: #000;
+	font-size: 80px;
+}
+
+h2 {
+	text-align: center;
+	font-family: "Raleway";
+	font-size: 30px;
+	margin: -25px;
+}
+h3 {
+	text-align: center;
+	font-family: "Raleway";
+	font-size: 48px;
+	margin-top: 15px;
+	letter-spacing: 3px;
+}
+h4 {
+	text-align: center;
+	font-family: "Raleway";
+	font-size: 30px;
+	margin: -10px;
+	letter-spacing: 3px;
+}
+h5 {
+	text-align: center;
+	font-family: "Raleway";
+	font-size: 30px;
+	margin: 3px;
+}
+h6 {
+	font-family: "Raleway";
+	font-size: 22px;
+	margin: 10px 0 0 20px;
+	letter-spacing: 2px;
+}
+h7 {
+	font-family: "Raleway";
+	font-size: 18px;
+	margin: 10px 0 0 20px;
+	letter-spacing: 2px;
+}
+h8 {
+	font-family: "Raleway";
+	position: relative;
+	font-size: 18px;
+	margin: 10px 0;
+	letter-spacing: 2px;
+}
+
+p {
+	font-family: "Raleway";
+	font-size: 16px;
+	margin: 0 0 0 20px;
+}
+a {
+	font-family: "Raleway";
+	font-size: 16px;
+	color: #2C3539;
+	text-decoration: none;
+}
+
+#border {
+	width: 820px;
+	border-bottom: 1px solid #000;
+	margin: 0 65px 20px;
+}
+#content {
+	width: 960px; position: absolute;
+	left: 50%;
+	margin: -10px 0 40px -500px;
+	background-color: rgba(255, 255, 255, 0.75);
+	padding: 20px;
+}
+
+#address {
+	margin: 0 20px 0 50px;
+	width: 335px;
+	float: left;
+}
+	h9 {
+		font-family: "Source Sans Pro";
+		font-size: 20px;
+		letter-spacing: 2px;
+		margin-left: 60px;
+	}
+
+#travel {
+	width: 820px;
+	margin: 0 auto 20px;
+}
+	#travel img {
+		margin: 0 0 20px -5px;
+	}
