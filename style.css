@@ -6,7 +6,7 @@ body, div, h1, h2, h3, h4, p, ul, ol, li, img, blockquote {
 
 body {
 	overflow-x: hidden;
-	background: url('DSC_2019.jpg') no-repeat;
+	background: url('DSC_1713.jpg') no-repeat;
 	background-size: 100%;
 	background-attachment: fixed;
 }
@@ -28,7 +28,7 @@ body {
 			ul.navigation li a {
 				text-decoration: none;
 				font-family: "Raleway";
-				color: #fff;
+				color: #000;
 				font-size: 16px;
 				letter-spacing: 2px;
 			}
