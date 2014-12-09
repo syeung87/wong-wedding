@@ -92,6 +92,16 @@ h8 {
 	font-size: 18px;
 	margin: 10px 0;
 	letter-spacing: 2px;
+	font-weight: bold;
+}
+h10 {
+	font-family: "Raleway";
+	position: relative;
+	font-size: 16px;
+	margin: 10px 0 20px 0;
+	letter-spacing: 2px;
+	font-weight: bold;
+
 }
 
 p {
@@ -138,3 +148,51 @@ a {
 	#travel img {
 		margin: 0 0 20px -5px;
 	}
+
+#weddingparty {
+	width: 820px;
+	margin: 0 auto 20px;
+}
+	#bio {
+		width: 820px; height: 235px;
+	}
+	#bio img {
+		float: left;
+	}
+		#description {
+			float: left;
+			width: 400px;
+			margin-left: 20px;
+		}
+		#description p {
+			margin-top: 20px;
+		}
+
+#rsvp {
+	width: 820px;
+	margin: 0 auto 20px;
+}
+#rsvp form {
+	margin-left: 20px;
+	margin-top: 20px;
+	float: left;
+}
+#rsvp label {
+	font-family: "Raleway";
+}
+#rsvp input[type="text"] {
+	font-family: "Raleway";
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+	#rsvp ul {
+		margin-left: 30px;
+	}
+	#rsvp ul li {
+		list-style: none;
+	}
+#rsvp img {
+	float: left;
+	margin-left: 80px;
+}
+	
