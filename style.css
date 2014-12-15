@@ -198,4 +198,13 @@ a {
 #weddingparty #groomsmen img {
 	margin-left: 100px;
 }
-	
+
+#registry {
+	width: 820px;
+	margin: 0 auto 20px;
+	background-color: #fff;
+}
+	#registry img {
+		margin-left: 100px;
+		margin-top: 30px;
+	}	
