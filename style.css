@@ -27,7 +27,7 @@ body {
 		}
 			ul.navigation li a {
 				text-decoration: none;
-				font-family: "Raleway";
+				font-family: "Open Sans";
 				color: #000;
 				font-size: 16px;
 				letter-spacing: 2px;
@@ -56,10 +56,10 @@ h2 {
 }
 h3 {
 	text-align: center;
-	font-family: "Raleway";
-	font-size: 48px;
+	font-family: "Clicker Script";
+	font-size: 52px;
 	margin-top: 15px;
-	letter-spacing: 3px;
+	letter-spacing: 7px;
 }
 h4 {
 	text-align: center;
@@ -75,19 +75,19 @@ h5 {
 	margin: 3px;
 }
 h6 {
-	font-family: "Raleway";
+	font-family: "Open Sans";
 	font-size: 22px;
 	margin: 10px 0 0 20px;
 	letter-spacing: 2px;
 }
 h7 {
-	font-family: "Raleway";
+	font-family: "Open Sans";
 	font-size: 18px;
 	margin: 10px 0 0 20px;
 	letter-spacing: 2px;
 }
 h8 {
-	font-family: "Raleway";
+	font-family: "Open Sans";
 	position: relative;
 	font-size: 18px;
 	margin: 10px 0;
@@ -95,7 +95,7 @@ h8 {
 	font-weight: bold;
 }
 h10 {
-	font-family: "Raleway";
+	font-family: "Open Sans";
 	position: relative;
 	font-size: 16px;
 	margin: 10px 0 20px 0;
@@ -105,12 +105,12 @@ h10 {
 }
 
 p {
-	font-family: "Raleway";
+	font-family: "Open Sans";
 	font-size: 16px;
 	margin: 0 0 0 20px;
 }
 a {
-	font-family: "Raleway";
+	font-family: "Open Sans";
 	font-size: 16px;
 	color: #2C3539;
 	text-decoration: none;
@@ -185,10 +185,10 @@ a {
 	float: left;
 }
 #rsvp label {
-	font-family: "Raleway";
+	font-family: "Open Sans";
 }
 #rsvp input[type="text"] {
-	font-family: "Raleway";
+	font-family: "Open Sans";
 	margin-bottom: 10px;
 	margin-left: 10px;
 }
