@@ -121,6 +121,12 @@ a {
 	border-bottom: 1px solid #000;
 	margin: 0 65px 20px;
 }
+
+#border2 {
+	width: 820px;
+	border-bottom: 1px solid #000;
+	margin-bottom: 20px;
+}
 #content {
 	width: 960px; position: absolute;
 	left: 50%;
@@ -155,6 +161,7 @@ a {
 }
 	#bio {
 		width: 820px; height: 235px;
+		margin-top: 20px;
 	}
 	#bio img {
 		float: left;
@@ -165,7 +172,7 @@ a {
 			margin-left: 20px;
 		}
 		#description p {
-			margin-top: 20px;
+			margin-top: 10px;
 		}
 
 #rsvp {
@@ -174,7 +181,7 @@ a {
 }
 #rsvp form {
 	margin-left: 20px;
-	margin-top: 20px;
+	margin-top: 0px;
 	float: left;
 }
 #rsvp label {
