@@ -51,28 +51,31 @@ h1 {
 h2 {
 	text-align: center;
 	font-family: "Raleway";
-	font-size: 30px;
+	font-size: 28px;
 	margin: -25px;
+	margin-left: 5px;
 }
 h3 {
 	text-align: center;
 	font-family: "Clicker Script";
-	font-size: 52px;
-	margin-top: 15px;
+	font-size: 75px;
+	margin-top: 10px;
 	letter-spacing: 7px;
 }
 h4 {
 	text-align: center;
 	font-family: "Raleway";
-	font-size: 30px;
-	margin: -10px;
-	letter-spacing: 3px;
+	font-size: 28px;
+	margin-top: -25px;
+	margin-left: -50px;
+	letter-spacing: 2px;
 }
 h5 {
 	text-align: center;
 	font-family: "Raleway";
 	font-size: 30px;
-	margin: 3px;
+	margin-top: -10px;
+	margin-left: -10px;
 }
 h6 {
 	font-family: "Open Sans";
